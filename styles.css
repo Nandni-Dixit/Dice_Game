@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&family=Oswald&display=swap');
+    .container{
+        text-align: center;
+    }
+    body{
+    background-color: #834197;
+    margin:0;
+   }
+    h1{
+        text-align:center;
+        font-family:  'Croissant One', cursive;
+        font-size: 5rem;
+        color:#79AC78;
+
+    }
+    span{
+        font-family:'Croissant One', cursive;
+        font-size: 2rem;
+        color:#79AC78;
+
+    }
+    .sub_head{
+        display:flex;
+        justify-content: space-evenly;
+    }
+    .dice{
+        text-align: center;
+        display:inline-block;
+        margin:20px;
+        padding-left:8%;
+        padding-right: 8%;
+        
+    }
+    .bottom{
+        padding-top: 30px;
+    }
+    .but{
+        background: #834197;
+        font-family: 'Courier New', Courier, monospace;
+        border-radius: 7px;
+        color:bisque;
+        padding:16px 25px 16px 25px;
+    }
+    .but:hover{
+          background: palevioletred;
+    }
+    img{
+        height: 200px;
+        width: 200px;
+    }
+    
